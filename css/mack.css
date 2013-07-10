@@ -7,9 +7,9 @@ body {
 	background-color: #b0c4de;
 	}
 
-menu-bar {
-	     background-color: #b0c4de;
- 	     }
+#menu-bar {
+  background-image: url('https://f.cloud.github.com/assets/4979267/778663/f34266d4-e9b6-11e2-8098-b9c4317db668.png');
+  }
 
 header {
 	      background-color: #b0c4de;
