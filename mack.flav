@@ -7,7 +7,7 @@
 
   name        = mack 
   description = Stripy with a colour background.
-  module      = redhead
+  module      = stripy
   screenshot  = screenshot.png
 
 ;----------// Stylesheets
