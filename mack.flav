@@ -13,6 +13,6 @@
 ;----------// Stylesheets
 
   css[] = css/mack.css
-; css[] = css/mack.layout.css
+  css[] = css/mack.layout.css
 : ie_stylesheets[screen][lt IE 9][] = css/mack-ie.css
 ; scripts[] = mack.js
