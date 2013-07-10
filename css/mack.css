@@ -3,27 +3,27 @@
 
 body {
   font: arial,helvetica,sans-serif;
-	color:#444;
+	color:#000;
 	background: url('../images/columnsBg.png') #000000;
 	}
 
 menu-bar {
-	     background-image: url('images/nav-strawberry.png');
+	     background-color: #000000;
  	     }
 
 header {
-	     background-image: url('images/nav-strawberry.png');
+	      background-color: #000000;
  	     }
 
 /* TYPOGRAPHY*/
 a, a:visited {
-	color:#446677;
+	color:#000000;
 	text-decoration: none;
 	}
 
 a:hover {
 	text-decoration: underline;
-	color: #222;
+	color: #000;
 	}
 
 h1, h2, h3, h4 {
