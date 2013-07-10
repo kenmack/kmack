@@ -5,7 +5,7 @@
 
 ;----------// Theme Information
 
-  name        = mack 
+  name        = mack2 
   description = Stripy with a colour background.
   module      = stripy
   screenshot  = screenshot.png
