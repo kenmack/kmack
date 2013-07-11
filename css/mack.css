@@ -44,7 +44,17 @@ header, header a{
  	     color: #f8f6f6;
  	     }
 
+#tasks li a.active {
+	color: #f9f9f9;	
+}
 
+#tasks li a {
+	color: #f8f6f6;
+}
+
+li a.active {
+	color: #f9f9f9;
+}
 
 h1#page-title {
 font-size: 1.3em;
