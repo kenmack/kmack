@@ -13,6 +13,11 @@ body {
   color: #000;
   }
 
+.biblio-title a, .biblio-title-chicago a, a, a:visited {
+color: #993333;
+text-decoration: underline;
+}
+
 #block-boxes-site-info {
 	color: #f8f6f6;
    }
