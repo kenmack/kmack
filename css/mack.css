@@ -19,8 +19,8 @@ h1, h2, h3, .region-sidebar-second a, #menu-bar, #header-container, .region-side
 color: #f8f6f6;
 }
 
-#header-container a, #header-container h1 a {
-	color: #f8f6f6;
+#header-container h1, #header-container h2, #header-container h3, #header-container a, #header-container a:visited, #header-container h1 a, #header-container h1 a:visited {
+color: #f8f6f6;
 }
 
 header {
