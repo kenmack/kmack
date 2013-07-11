@@ -45,7 +45,8 @@ header, header a{
  	     }
 
 #tasks li a.active {
-	color: #f9f9f9;	
+	color: #ffffff;
+	font-weight: bolder;
 }
 
 #tasks li a {
