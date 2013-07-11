@@ -4,7 +4,7 @@
 body {
   font: arial,helvetica,sans-serif;
 	color:#000;
-        background-image: url('https://f.cloud.github.com/assets/4979267/778949/0f846154-e9c0-11e2-8934-70cb3beb69a9.png');
+        background-color: #BF676D;
 	}
 
 #menu-bar {
@@ -12,7 +12,7 @@ body {
   }
 
 header {
-	     background-image: url('https://f.cloud.github.com/assets/4979267/778949/0f846154-e9c0-11e2-8934-70cb3beb69a9.png');
+	     background-color: #BF676D;
  	     }
 
 /* TYPOGRAPHY*/
