@@ -19,6 +19,10 @@ h1, h2, h3, .region-sidebar-second a, #menu-bar, #header-container, .region-side
 color: #f8f6f6;
 }
 
+#header-container a, #header-container h1 a {
+	color: #f8f6f6;
+}
+
 header {
 	     background-image: url('https://f.cloud.github.com/assets/4979267/779455/98af40ea-e9d7-11e2-92ac-eec4a96e24d2.png');
  	     }
