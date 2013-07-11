@@ -50,6 +50,10 @@ h1#page-title {
 font-size: 1.3em;
 margin-left: 10px;
 }
+
+.node-header a {
+	color: #f8f6f6;
+}
 /* TYPOGRAPHY*/
 /* a, a:visited {
 	color:#b0c4de;
