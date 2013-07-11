@@ -29,6 +29,11 @@ color: #f8f6f6;
 color: #f8f6f6;
 }
 
+#menu-bar li {
+	color: #000;
+	font-size: 15px;
+}
+
 header {
 	     background-image: url('https://f.cloud.github.com/assets/4979267/779455/98af40ea-e9d7-11e2-92ac-eec4a96e24d2.png');
  	     }
