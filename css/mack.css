@@ -22,6 +22,10 @@ text-decoration: underline;
 	color: #f8f6f6;
    }
 
+#columns {
+	background-color: #f7f3ea;
+}
+
 h1, h2, #menu-bar, #header-container, .region-sidebar-first {
 color: #f8f6f6;
 }
