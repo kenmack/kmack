@@ -23,7 +23,7 @@ text-decoration: underline;
    }
 
 #columns {
-	font-family: "Verdana"";
+	font: 15px/normal 'Book Antiqua',garamond,'times new roman',times,serif;
 }
 
 #columns .content-inner {
