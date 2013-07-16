@@ -71,6 +71,14 @@ margin-left: 10px;
 	text-align: left;
 }
 
+.node-title a {
+	background-color: #ffffff;
+}
+
+.block-title {
+	color: #000000;
+}
+
 /* TYPOGRAPHY*/
 /* a, a:visited {
 	color:#b0c4de;
