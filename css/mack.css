@@ -23,6 +23,10 @@ text-decoration: underline;
    }
 
 #columns {
+	font-family: "Verdana"";
+}
+
+#columns .content-inner {
 	background-color: #f7f3ea;
 }
 
