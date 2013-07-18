@@ -30,7 +30,7 @@ text-decoration: underline;
 	background-color: #f7f3ea;
 }
 
-h1, h2, #menu-bar, #header-container, .region-sidebar-first {
+h1, #menu-bar, #header-container, .region-sidebar-first {
 color: #f8f6f6;
 }
 
@@ -65,10 +65,10 @@ li a.active {
 	color: #f9f9f9;
 }
 
-h1#page-title {
+/* h1#page-title {
 font-size: 1.3em;
 margin-left: 10px;
-}
+}*/ 
 
 .node-header h1 a {
 	color: #f8f6f6;
@@ -99,6 +99,7 @@ margin-left: 10px;
 .underinfo {
 	font-size: 1em;
 }
+
 
 /* TYPOGRAPHY*/
 /* a, a:visited {
