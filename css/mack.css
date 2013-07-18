@@ -99,6 +99,11 @@ margin-left: 10px;
 	font-size: 1em;
 }
 
+#header-container h5 {
+font-size: 31px;
+line-height: 1em;
+}
+
 /* TYPOGRAPHY*/
 /* a, a:visited {
 	color:#b0c4de;
